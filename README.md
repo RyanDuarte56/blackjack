@@ -1,0 +1,1 @@
+Jogo de Blackjack implementado em React, com funcionalidades básicas como hit, stand e double. Inclui interface interativa e botão para reiniciar a mão sem precisar atualizar a página.
